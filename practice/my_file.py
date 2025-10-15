@@ -1,0 +1,1 @@
+print("Welcome to python course, It's tbAnalyst here")
